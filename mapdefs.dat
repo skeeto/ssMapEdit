@@ -1,0 +1,20 @@
+; This file holds map definitions that may change.
+; It will allow the program to be fixed without a
+; recompile.
+;
+; This file is accurate as of:
+; March 8, 2004
+
+HORIZONTAL_MAX 	= 99
+VERTICAL_MAX 	= 99
+STAR_MAX	= 15
+SPAWN_MAX	= 7
+COLOR_MAX	= 15
+PAIN_MAX	= 15
+PUP_MAX		= 235
+ZONE_MAX	= 99
+UNDO_MAX	= 19
+ARCADIA		= c:\arcadia\toys\toy7\maps\
+
+; Always, as in the way of Synthetic-Reality, end
+; with a blank line (or two).
